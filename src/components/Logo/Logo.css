@@ -1,0 +1,5 @@
+.logo {
+  width    : 110px;
+  height   : 100px;
+  transform: scale(1.25) translateX(calc(55px - 55px * 0.25))
+}

@@ -1,0 +1,24 @@
+.form--container {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  margin : 0 8rem;
+}
+
+.image-link {
+  border          : none;
+  width           : 60%;
+  background-color: #f3f3f3;
+  padding         : 1rem;
+  flex            : 80%;
+  border-radius   : 10px;
+}
+
+.btn--detect {
+  background-color: #2ecc71;
+  color           : white;
+  width           : 8rem;
+  flex            : 20%
+}

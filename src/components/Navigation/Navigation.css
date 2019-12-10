@@ -1,0 +1,30 @@
+.nav {
+  display                   : flex;
+  background                : #F79F1F;
+  border-bottom             : black 2px solid;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius : 100px;
+  justify-content           : flex-end;
+}
+
+.logo--container {
+  flex           : 1;
+  display        : flex;
+  justify-content: flex-end;
+}
+
+.btn--container {
+  display        : flex;
+  flex           : 1;
+  justify-content: flex-end;
+}
+
+.btn--sign-out {
+  background-color: #e74c3c;
+  color           : #fff;
+  margin          : 1.2rem;
+  margin-right    : 3rem;
+  align-self      : center;
+
+
+}
